@@ -1,0 +1,13 @@
+{
+  "name": "com.oik.debugs",
+  "version": "1.0.0",
+  "displayName": "Debugs",
+  "description": "Oik's unity Debug extras",
+  "unity": "6000.0",
+  "author": {
+    "name": "Oik"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
+}
